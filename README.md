@@ -7,8 +7,5 @@
 >  > * 궁금함이 많아, 물음표로 성장해 나가는 사람입니다.
 
 > ## 숙련 기술
->  > * JAVA
->  > * JAVAJAVA
->  > * JAVAJAVAJAVA
->  > * JAVAJAVAJAVAJAVA
+
 
